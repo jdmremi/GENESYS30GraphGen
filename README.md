@@ -1,4 +1,4 @@
-# Genesys30 Spectrometer Graph Generator
+# GENESYS30GraphGen
 
 A simple command line tool used to generate graphs from spectrometer data gathered by the GENESYS30 spectrometer.
 
