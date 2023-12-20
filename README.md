@@ -2,6 +2,8 @@
 
 A simple command line tool used to generate graphs from spectrometer data gathered by the GENESYS30 spectrometer.
 
+![Example](https://github.com/jdmremi/GENESYS30GraphGen/blob/main/example/images/Example%20Absorbance%20Graph%201.png)
+
 # Requirements
 
 - Python v3.11.0
