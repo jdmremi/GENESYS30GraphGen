@@ -6,12 +6,12 @@
 # When the program runs, you will be asked to give the FULL path to your data set. E.g C:\Users\User\Documents\GENESYS30Data on Windows (or wherever your files are located).
 # On Mac, the format is generally /users/User/Documents/Desktop/GENESYS30Data, or again, wherever your files are located.
 
-# If done correctly, it should display the amount of files that are in that directory (should be 48 if your trials were conducted correctly)
+# If done correctly, it should display the amount of files that are in that directory.
 # Next, the program will visit each file. It will print out the max absorption and wavelength recorded, and print that out so that you know which trial belongs to each file.
 # It will also print the name of the file.
 
-# Choose a good name to name the file - e.g "Phenol Red pH 2 Trial 1", because this will also be the title on the graph.
-# Steps repeat for every file (48 times, sorry)
+# Choose a good name to name the file - e.g "Universal Indicator pH 7 Trial 1", because this will also be the title on the graph.
+# Steps repeat for every file.
 # Files will output to the GENESYS30Data/images directory
 
 import csv
